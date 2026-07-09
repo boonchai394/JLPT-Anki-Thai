@@ -1,0 +1,66 @@
+﻿Front,Back,Tags
+"<div style=""text-align:center;"">
+<div style=""font-size:112px;font-weight:bold;line-height:1.0;"">一</div>
+<div style=""font-size:22px;margin-top:8px;"">1画</div>
+<div style=""font-size:18px;color:#2e7d32;font-weight:bold;margin-top:6px;"">JLPT N5</div>
+</div>","<div style=""text-align:center;font-size:72px;font-weight:bold;"">一</div>
+<div style=""text-align:center;font-size:18px;"">JLPT N5・1画</div>
+<hr>
+<b>音読み</b><br>イチ・イツ<br><br>
+<b>訓読み</b><br>ひと・ひとつ<br><br>
+<b>ความหมาย</b><br>หนึ่ง<br><br>
+<b>คำศัพท์</b><br>一つ（ひとつ）<br>= หนึ่งอัน<br>一日（いちにち）<br>= หนึ่งวัน<br>一人（ひとり）<br>= หนึ่งคน<br>一番（いちばん）<br>= อันดับหนึ่ง / ที่สุด<br>一月（いちがつ）<br>= มกราคม<br><br>
+<b>例文</b><br>一日に一時間、日本語を勉強します。<br>（いちにちに いちじかん、にほんごを べんきょうします。）<br>= เรียนภาษาญี่ปุ่นวันละ 1 ชั่วโมง<br><br>これは一番大切です。<br>（これは いちばん たいせつです。）<br>= อันนี้สำคัญที่สุด<br><br>
+<b>Mnemonic</b><br>一 = เส้นเดียว จำง่ายว่า 'หนึ่ง'",JLPT::N5 Kanji Stroke
+"<div style=""text-align:center;"">
+<div style=""font-size:112px;font-weight:bold;line-height:1.0;"">二</div>
+<div style=""font-size:22px;margin-top:8px;"">2画</div>
+<div style=""font-size:18px;color:#2e7d32;font-weight:bold;margin-top:6px;"">JLPT N5</div>
+</div>","<div style=""text-align:center;font-size:72px;font-weight:bold;"">二</div>
+<div style=""text-align:center;font-size:18px;"">JLPT N5・2画</div>
+<hr>
+<b>音読み</b><br>ニ<br><br>
+<b>訓読み</b><br>ふた・ふたつ<br><br>
+<b>ความหมาย</b><br>สอง<br><br>
+<b>คำศัพท์</b><br>二つ（ふたつ）<br>= สองอัน<br>二人（ふたり）<br>= สองคน<br>二月（にがつ）<br>= กุมภาพันธ์<br>二日（ふつか）<br>= วันที่ 2 / 2 วัน<br>二枚（にまい）<br>= สองแผ่น<br><br>
+<b>例文</b><br>二枚分作ってください。<br>（にまいぶん つくってください。）<br>= กรุณาทำสำหรับ 2 ผืน<br><br>二人で行きます。<br>（ふたりで いきます。）<br>= ไปกันสองคน<br><br>
+<b>Mnemonic</b><br>二 = เส้นสองเส้น = สอง",JLPT::N5 Kanji Stroke
+"<div style=""text-align:center;"">
+<div style=""font-size:112px;font-weight:bold;line-height:1.0;"">三</div>
+<div style=""font-size:22px;margin-top:8px;"">3画</div>
+<div style=""font-size:18px;color:#2e7d32;font-weight:bold;margin-top:6px;"">JLPT N5</div>
+</div>","<div style=""text-align:center;font-size:72px;font-weight:bold;"">三</div>
+<div style=""text-align:center;font-size:18px;"">JLPT N5・3画</div>
+<hr>
+<b>音読み</b><br>サン<br><br>
+<b>訓読み</b><br>み・みっつ<br><br>
+<b>ความหมาย</b><br>สาม<br><br>
+<b>คำศัพท์</b><br>三つ（みっつ）<br>= สามอัน<br>三人（さんにん）<br>= สามคน<br>三月（さんがつ）<br>= มีนาคม<br>三日（みっか）<br>= วันที่ 3 / 3 วัน<br>三回（さんかい）<br>= สามครั้ง<br><br>
+<b>例文</b><br>三回確認しました。<br>（さんかい かくにんしました。）<br>= ตรวจสอบสามครั้งแล้ว<br><br>三人で働いています。<br>（さんにんで はたらいています。）<br>= ทำงานกันสามคน<br><br>
+<b>Mnemonic</b><br>三 = เส้นสามเส้น = สาม",JLPT::N5 Kanji Stroke
+"<div style=""text-align:center;"">
+<div style=""font-size:112px;font-weight:bold;line-height:1.0;"">人</div>
+<div style=""font-size:22px;margin-top:8px;"">2画</div>
+<div style=""font-size:18px;color:#2e7d32;font-weight:bold;margin-top:6px;"">JLPT N5</div>
+</div>","<div style=""text-align:center;font-size:72px;font-weight:bold;"">人</div>
+<div style=""text-align:center;font-size:18px;"">JLPT N5・2画</div>
+<hr>
+<b>音読み</b><br>ジン・ニン<br><br>
+<b>訓読み</b><br>ひと<br><br>
+<b>ความหมาย</b><br>คน<br><br>
+<b>คำศัพท์</b><br>人（ひと）<br>= คน<br>日本人（にほんじん）<br>= คนญี่ปุ่น<br>外国人（がいこくじん）<br>= ชาวต่างชาติ<br>一人（ひとり）<br>= หนึ่งคน<br>人気（にんき）<br>= ความนิยม<br><br>
+<b>例文</b><br>日本人の友達がいます。<br>（にほんじんの ともだちが います。）<br>= มีเพื่อนคนญี่ปุ่น<br><br>あそこに人がいます。<br>（あそこに ひとが います。）<br>= ตรงนั้นมีคนอยู่<br><br>
+<b>Mnemonic</b><br>人 = เหมือนคนยืนกางขา",JLPT::N5 Kanji Stroke
+"<div style=""text-align:center;"">
+<div style=""font-size:112px;font-weight:bold;line-height:1.0;"">日</div>
+<div style=""font-size:22px;margin-top:8px;"">4画</div>
+<div style=""font-size:18px;color:#2e7d32;font-weight:bold;margin-top:6px;"">JLPT N5</div>
+</div>","<div style=""text-align:center;font-size:72px;font-weight:bold;"">日</div>
+<div style=""text-align:center;font-size:18px;"">JLPT N5・4画</div>
+<hr>
+<b>音読み</b><br>ニチ・ジツ<br><br>
+<b>訓読み</b><br>ひ・か<br><br>
+<b>ความหมาย</b><br>วัน / พระอาทิตย์<br><br>
+<b>คำศัพท์</b><br>日（ひ）<br>= วัน / พระอาทิตย์<br>日本（にほん）<br>= ญี่ปุ่น<br>毎日（まいにち）<br>= ทุกวัน<br>日曜日（にちようび）<br>= วันอาทิตย์<br>一日（いちにち）<br>= หนึ่งวัน<br><br>
+<b>例文</b><br>毎日、日本語を勉強します。<br>（まいにち、にほんごを べんきょうします。）<br>= เรียนภาษาญี่ปุ่นทุกวัน<br><br>今日は日差しが強いです。<br>（きょうは ひざしが つよいです。）<br>= วันนี้แดดแรง<br><br>
+<b>Mnemonic</b><br>日 = รูปพระอาทิตย์แบบสี่เหลี่ยม",JLPT::N5 Kanji Stroke
